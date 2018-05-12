@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35144
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Viktor_von_Scheffel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31314#The-Trumpeter-of-S-kkingen--A-Song-from-the-Upper-Rhine.
 gutenberg_issued: '2010-02-18'
 gutenberg_type: Text
 identifiers:
