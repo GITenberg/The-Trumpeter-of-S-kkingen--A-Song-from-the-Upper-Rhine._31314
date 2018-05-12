@@ -1,0 +1,39 @@
+_repo: The-Trumpeter-of-S-kkingen--A-Song-from-the-Upper-Rhine._31314
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brünnow, Franz, Mrs.
+    aliases:
+    - Brunnow, Mrs. Franz
+    - Brünnow, Mrs. Francis
+    gutenberg_agent_id: '35145'
+    url: http://www.gutenberg.org/2009/agents/35145
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scheffel, Joseph Victor von
+    aliases:
+    - Scheffel, J. von (Joseph)
+    - Von Scheffel, Joseph Viktor
+    - Scheffel, Joseph Victor von
+    birthdate: 1826
+    deathdate: 1886
+    gutenberg_agent_id: '35144'
+    url: http://www.gutenberg.org/2009/agents/35144
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Viktor_von_Scheffel
+description: ''
+gutenberg_issued: '2010-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, German -- Translations into English'
+- !lcc 'PT'
+title: 'The Trumpeter of Säkkingen: A Song from the Upper Rhine.'
+url: http://www.gutenberg.org/ebooks/31314
